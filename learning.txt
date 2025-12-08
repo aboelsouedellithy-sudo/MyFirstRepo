@@ -1,0 +1,1 @@
+I have learned how Git works, how to create repositories, branches, commits, and how to collaborate through pull requests and forks. This course helped me understand real workflows used by developers.
